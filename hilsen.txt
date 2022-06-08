@@ -6,3 +6,4 @@ hei Bouvet
  b1 change
  M message 1
 b2 message 1
+M message 2
